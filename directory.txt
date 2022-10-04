@@ -1,0 +1,6 @@
+Drink,Coca-Cola,120,16,Soda,2
+Drink,Coca-Cola,120,16,Soda,4
+Drink,Pepsi,120,16,Soda,2
+Drink,Aquafina,0,16,Water,4
+Snack,Chips,220,4,false,3
+Snack,Peanuts,110,2,true,2
